@@ -9,14 +9,7 @@ public class Main {
         MyList<Integer> list = new MyList<>(new SteckStretegy<>());
 
 
-        list.add(10);
-        list.add(20);
-        list.add(30);
-
-
-        list.size();
-        System.out.println(list);
-
+        list.add
         System.out.println("Size of the list: " + list.size());
 
 
